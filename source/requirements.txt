@@ -1,2 +1,2 @@
 sphinx-material
-sphinx
+sphinx>=3.0.0
