@@ -57,8 +57,12 @@ html_theme = 'pydata_sphinx_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_theme_options = {
+  "github_url": "https://github.com/daltz333",
+}
+
 html_sidebars = {
-   '**': ['postcard.html', 'recentposts.html',
-          'tagcloud.html', 'categories.html',
-          'archives.html', ]
+    '**' : [
+        'recentposts.html',
+    ]
 }

@@ -28,5 +28,8 @@ About Me
 
    - `GitHub <https://github.com/daltz333/>`__
 
+Blog Posts
+----------
+
 .. postlist::
    :list-style: circle:
