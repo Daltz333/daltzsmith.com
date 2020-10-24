@@ -34,6 +34,7 @@ extensions = [
     'sphinx.ext.intersphinx',
     'sphinx_panels',
     'sphinxemoji.sphinxemoji',
+    'sphinxext.opengraph',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -43,6 +44,8 @@ templates_path = ['_templates']
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = []
+
+ogp_site_url = "https://daltzsmith.com/"
 
 
 # -- Options for HTML output -------------------------------------------------
