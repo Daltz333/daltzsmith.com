@@ -1,11 +1,29 @@
-Dalton's Blog
-=============
-Hi there! My name is Dalton Smith and I'm a developer of many things. Currently I volunteer with `WPILib <https://github.com/wpilibsuite/>`__ where I maintain their documentation. I also write several `Sphinx <https://github.com/sphinx-doc/>`__ extensions. I consider myself proficient in Python and Java, and always love tackling new and exciting challenges.
+Welcome to my Blog
+==================
 
-- `frc-docs <https://github.com/wpilibsuite/frc-docs>`__
-- `GrizzlyTime <https://github.com/YCSRobotics/GrizzlyTime>`__
+.. panels::
 
-My LinkedIn is available `here <https://www.linkedin.com/in/dalton-smith-822070186/>`__
+   .. image:: images/me.jpg
+ 
+   ---
 
-.. toctree::
-   :maxdepth: 1
+   |:eyes:| **Hi, it's me, Dalton!** |:eyes:|
+
+   - Documentation Master
+   - FRC Alumni and Programmer
+   - `WPILib <https://docs.wpilib.org/>`__ developer
+   - `GrizzlyTime <https://github.com/YCSRobotics/GrizzlyTime>`__ developer
+   - League of Legends Rookie
+
+About Me
+--------
+
+.. panels::
+   :column: col-lg-12 p-2
+
+   Hello, I'm your host, Dalton Smith. Welcome to my lonely lonely site, where I (hopefully) document my various adventures in the amateur world. The goal is to write articles on a bunch of random stuff. This can range from documentation |:writing_hand:| with `Sphinx <https://sphinx-doc.org>`__ and rants |:angry:| on some of my favorite anime.
+
+   - `GitHub <https://github.com/daltz333/>`__
+
+.. postlist::
+   :list-style: circle:
