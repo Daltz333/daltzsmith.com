@@ -2,12 +2,15 @@ Welcome to my Blog
 ==================
 
 .. panels::
+   :header: text-center
 
    .. image:: images/me.jpg
  
    ---
 
    |:eyes:| **Hi, it's me, Dalton!** |:eyes:|
+
+   ^^^
 
    - Documentation Master
    - FRC Alumni and Programmer
